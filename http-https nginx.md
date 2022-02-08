@@ -5,7 +5,7 @@
         
         apt install nginx -y
         
-- get yours certificates signed as server type and then place;
+- get your certificates signed as server type and then place;
 
         .crt file in /etc/ssl/certs
         .key file in /etc/ssl/private
